@@ -64,3 +64,23 @@ Solution: Sparse-Arrays/solution.c
 ## Reflection
 
 This activity helped me understand algorithmic efficiency and improve my problem-solving skills. I practiced arrays, matrices, strings, dynamic sequences, and query processing through five HackerRank problems. I learned to consider time and space complexity while designing solutions. The activity also improved my understanding of C programming and helped me gain practical experience with an industry-recognized coding platform.
+
+## HackerRank Proof
+
+### Diagonal Difference
+![Diagonal Difference](./diagonal-difference.png)
+
+### Dynamic Array
+![Dynamic Array](./dynamic-array.png)
+
+### Time Conversion
+![Time Conversion](./time-conversion.png)
+
+### Compare the Triplets
+![Compare the Triplets](./compare-triplets.png)
+
+### Sparse Arrays
+![Sparse Arrays](./sparse-arrays.png)
+
+### HackerRank Problem Solving Badge
+![HackerRank Badge](./hackerrank-badge.png)
