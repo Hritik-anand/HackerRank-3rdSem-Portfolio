@@ -8,7 +8,7 @@ The activity focuses on arrays, strings, data structures, and algorithmic proble
 
 ## HackerRank Profile
 
-HackerRank Profile: PASTE YOUR HACKERRANK PROFILE LINK HERE
+HackerRank Profile: https://www.hackerrank.com/profile/hritik110607
 
 ## Problems Completed
 
